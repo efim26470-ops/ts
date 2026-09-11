@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<script>const base=document.createElement('base');base.href=location.hostname.endsWith('github.io')?`/${location.pathname.split('/')[1]}/`:'/';document.head.append(base)</script>
+<meta name="theme-color" content="#080808"><meta name="description" content="ТАйМСКВЕР — музыка, концерты, медиа и история группы. Громче слов.">
+<meta property="og:title" content="ТАйМСКВЕР — громче слов"><meta property="og:description" content="Музыка, в которой хрупкость встречается с тяжёлым живым звуком."><meta property="og:url" content="https://timesquare-gromche-slov.stngtnpj2q.chatgpt.site"><meta property="og:image" content="https://timesquare-gromche-slov.stngtnpj2q.chatgpt.site/assets/og-timesquare.png"><meta name="twitter:card" content="summary_large_image">
+<title>ТАйМСКВЕР — громче слов</title><link rel="stylesheet" href="./styles.css"><script src="./app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#app">К содержимому</a>
+<div class="scroll-progress" aria-hidden="true"></div><header class="header"><a class="logo header-logo" href="#/" aria-label="ТАйМСКВЕР — главная"><img src="./assets/timesquare-logo.jpg" alt=""><b>ТАйМСКВЕР</b><sup>✳</sup></a><button class="menu" aria-controls="nav" aria-expanded="false">МЕНЮ <b>+</b></button><nav id="nav"><a href="#/">Главная</a><a href="#/music/">Музыка</a><a href="#/tour/">Концерты</a><a href="#/media/">Медиа</a><a href="#/band/">Группа</a><a class="accent" href="#/support/">Поддержать ↗</a></nav></header>
+<main id="app" tabindex="-1"><div class="loading">Загружаем музыку…</div></main>
+<footer class="footer"><a class="logo small" href="#/">ТАйМСКВЕР</a><p>Неофициальный проект для личного знакомства с музыкой. Права на музыку, фото и логотип принадлежат правообладателям.</p><a href="#/sources/">Источники и права ↗</a></footer>
+<section class="player" aria-label="Плеер"><button class="player-cover" data-action="current"><img id="p-cover" src="./assets/covers/moy-dom.jpg" alt="Обложка"></button><div class="player-info"><b id="p-title">Мой дом</b><span id="p-artist">ТАйМСКВЕР &amp; балкон ожиданий</span><small>Превью Apple Music · 30 сек</small></div><div class="transport"><button data-action="prev" aria-label="Предыдущее">⏮</button><button class="play" data-action="toggle" aria-label="Воспроизвести">▶</button><button data-action="next" aria-label="Следующее">⏭</button></div><div class="timeline"><span id="p-elapsed">0:00</span><input id="seek" type="range" min="0" max="30" step=".1" value="0" disabled><span>0:30</span></div><button class="listen" id="p-link" data-action="current">Слушать целиком ↗</button></section>
+<audio id="audio" preload="none"></audio><dialog id="modal"><button class="close" data-action="close" aria-label="Закрыть">×</button><div id="modal-body"></div></dialog><div id="toast" role="status" aria-live="polite"></div>
+<noscript><p class="noscript">Включите JavaScript для каталога и плеера. <a href="https://t.me/timesquareband">Официальный Telegram группы</a></p></noscript>
+</body></html>

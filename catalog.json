@@ -1,0 +1,1103 @@
+{
+  "verifiedAt": "2026-09-11",
+  "artist": {
+    "name": "ТАйМСКВЕР",
+    "appleArtistId": 1189934988,
+    "appleMusicUrl": "https://music.apple.com/us/artist/%D1%82%D0%B0%D0%B9%D0%BC%D1%81%D0%BA%D0%B2%D0%B5%D1%80/1189934988?uo=4"
+  },
+  "source": {
+    "name": "Apple iTunes public lookup catalog",
+    "artistLookupUrl": "https://itunes.apple.com/lookup?id=1189934988&entity=album&limit=200&country=US",
+    "tracksLookupUrl": "https://itunes.apple.com/lookup?id=1616081660,1616087183,1616093963,1616620872,1616896318,1651229903,1703592887,1743468176,1868330182,1889149798,6774883995,6781699175,6799085392&entity=song&limit=200&country=US"
+  },
+  "notes": [
+    "Official Apple Music catalog metadata and artwork; artwork copyright belongs to the respective rights holders.",
+    "previewUrl values are Apple-provided promotional excerpts, not full songs. Link each promotional preview to its Apple Music track/album page and label it «Превью · 30 сек». Do not imply a grant of rights to the full recording.",
+    "All 13 artwork files downloaded successfully as 800×800 JPEGs. All 13 featured previews returned HTTP 200, CORS access-control-allow-origin *, and ffprobe confirmed AAC audio of approximately 30 seconds.",
+    "Track durations in durationMs are full-track catalog durations. previewDurationSeconds is the measured sample duration only.",
+    "Apple catalog labels the three-track 2018 release «ЭГО - Single» even though it is also described elsewhere as an EP."
+  ],
+  "albums": [
+    {
+      "id": "moy-dom",
+      "appleAlbumId": 6799085392,
+      "title": "Мой дом",
+      "catalogTitle": "Мой дом - Single",
+      "artist": "ТАйМСКВЕР & балкон ожиданий",
+      "releaseDate": "2026-08-21",
+      "year": 2026,
+      "kind": "single",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BC-single/6799085392?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/f9/c9/bbf9c995-3eb6-d589-3949-d62bc6103060/cover.png/800x800bb.jpg",
+      "featuredPreviewTrackId": 6799085393,
+      "tracks": [
+        {
+          "id": 6799085393,
+          "title": "Мой дом",
+          "artist": "ТАйМСКВЕР & балкон ожиданий",
+          "number": 1,
+          "durationMs": 199364,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BC/6799085392?i=6799085393&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/ef/9b/5aef9b60-0edf-f337-f0fa-1a55e42ae07b/mzaf_3966882281044380109.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.007007
+        }
+      ],
+      "cover": "/assets/covers/moy-dom.jpg"
+    },
+    {
+      "id": "vkus-moyey-krovi",
+      "appleAlbumId": 6781699175,
+      "title": "Вкус моей крови",
+      "catalogTitle": "Вкус моей крови - Single",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2026-07-17",
+      "year": 2026,
+      "kind": "single",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BA%D1%83%D1%81-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%BA%D1%80%D0%BE%D0%B2%D0%B8-single/6781699175?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/f6/c9/82f6c921-ad0d-5184-7b66-32513ffd2697/cover.png/800x800bb.jpg",
+      "featuredPreviewTrackId": 6781699176,
+      "tracks": [
+        {
+          "id": 6781699176,
+          "title": "Вкус моей крови",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 155574,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BA%D1%83%D1%81-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%BA%D1%80%D0%BE%D0%B2%D0%B8/6781699175?i=6781699176&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/fe/2e/e3fe2e9c-b465-de70-bf64-a29b5dbb3f21/mzaf_13329015201322848298.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.000181
+        }
+      ],
+      "cover": "/assets/covers/vkus-moyey-krovi.jpg"
+    },
+    {
+      "id": "tri-dorogi",
+      "appleAlbumId": 6774883995,
+      "title": "Три дороги (последний круг)",
+      "catalogTitle": "Три дороги (последний круг) - Single",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2026-06-12",
+      "year": 2026,
+      "kind": "single",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D1%80%D0%B8-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%BA%D1%80%D1%83%D0%B3-single/6774883995?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/f6/0a/aaf60aba-8eb8-68d5-09ce-53e53b208c8d/cover.png/800x800bb.jpg",
+      "featuredPreviewTrackId": 6774883996,
+      "tracks": [
+        {
+          "id": 6774883996,
+          "title": "Три дороги (последний круг)",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 166205,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D1%80%D0%B8-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/6774883995?i=6774883996&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/f5/6b/eff56b4e-5479-1b37-b3f2-e8ca8d1b42f2/mzaf_3802788684112328769.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.001995
+        }
+      ],
+      "cover": "/assets/covers/tri-dorogi.jpg"
+    },
+    {
+      "id": "na-suete",
+      "appleAlbumId": 1889149798,
+      "title": "На суете",
+      "catalogTitle": "На суете - Single",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2026-04-10",
+      "year": 2026,
+      "kind": "single",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B0-%D1%81%D1%83%D0%B5%D1%82%D0%B5-single/1889149798?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/e9/fe/bbe9fe0f-0885-b109-dfb6-972929c039d6/cover.png/800x800bb.jpg",
+      "featuredPreviewTrackId": 1889149799,
+      "tracks": [
+        {
+          "id": 1889149799,
+          "title": "На суете",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 180200,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B0-%D1%81%D1%83%D0%B5%D1%82%D0%B5/1889149798?i=1889149799&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/f2/b6/74f2b6dc-8df6-a7c7-7f78-49a12b3e35f8/mzaf_3050405228187426928.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.016009
+        }
+      ],
+      "cover": "/assets/covers/na-suete.jpg"
+    },
+    {
+      "id": "uppercut",
+      "appleAlbumId": 1868330182,
+      "title": "Апперкот",
+      "catalogTitle": "Апперкот - Single",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2026-03-13",
+      "year": 2026,
+      "kind": "single",
+      "trackCount": 1,
+      "copyright": "℗ 2026 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B0%D0%BF%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D1%82-single/1868330182?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/0b/8a/3e0b8a94-35cd-db08-2b9d-793325dbbbb5/cover.png/800x800bb.jpg",
+      "featuredPreviewTrackId": 1868330183,
+      "tracks": [
+        {
+          "id": 1868330183,
+          "title": "Апперкот",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 198632,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B0%D0%BF%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D1%82/1868330182?i=1868330183&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/b4/21/10b421c0-79db-342c-7386-785a565831b6/mzaf_3082005585349041340.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.000181
+        }
+      ],
+      "cover": "/assets/covers/uppercut.jpg"
+    },
+    {
+      "id": "bipolyarka-2",
+      "appleAlbumId": 1743468176,
+      "title": "Биполярка, Ч. 2",
+      "catalogTitle": "Биполярка, Ч. 2",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2024-05-03",
+      "year": 2024,
+      "kind": "album",
+      "trackCount": 7,
+      "copyright": "℗ 2024 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B1%D0%B8%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BA%D0%B0-%D1%87-2/1743468176?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/2d/7c/a32d7cb3-1a99-6c87-b665-38d750e01308/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1743468183,
+      "tracks": [
+        {
+          "id": 1743468180,
+          "title": "терапия",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 82000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F/1743468176?i=1743468180&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/09/f8/af09f8d6-3e03-1d4d-ece0-e61dd6c60870/mzaf_18021765793183675615.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1743468183,
+          "title": "Один на один",
+          "artist": "ТАйМСКВЕР",
+          "number": 2,
+          "durationMs": 129682,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BE%D0%B4%D0%B8%D0%BD-%D0%BD%D0%B0-%D0%BE%D0%B4%D0%B8%D0%BD/1743468176?i=1743468183&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/a2/4e/a1a24ec8-fea6-1ed7-0481-c2da6e704acc/mzaf_9141269847557839965.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.003991
+        },
+        {
+          "id": 1743468185,
+          "title": "Жало",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 215905,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B6%D0%B0%D0%BB%D0%BE/1743468176?i=1743468185&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/25/24/6f2524b4-916d-9a7a-f287-7f689c74409c/mzaf_5550509780085118287.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1743468186,
+          "title": "На острие",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 161258,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B0-%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%B5/1743468176?i=1743468186&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/20/66/a4206650-3d2b-3b07-b371-667c780df5da/mzaf_5512114650601281328.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1743468188,
+          "title": "Дыши",
+          "artist": "ТАйМСКВЕР",
+          "number": 5,
+          "durationMs": 207577,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B4%D1%8B%D1%88%D0%B8/1743468176?i=1743468188&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/94/05/3c940566-c9ed-f0c2-efdf-582c9a5dffa0/mzaf_5172449916849678882.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1743468189,
+          "title": "ПХР",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 180598,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%85%D1%80/1743468176?i=1743468189&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/20/25/22202587-5bfe-3cf1-c4e1-ad56d4d0efa5/mzaf_3746269102518378296.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1743468191,
+          "title": "ремиссия",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 130000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%80%D0%B5%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F/1743468176?i=1743468191&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/ce/ea/6cceea7f-6776-0577-4d20-0905b749a294/mzaf_2604526088043649974.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/bipolyarka-2.jpg"
+    },
+    {
+      "id": "bipolyarka-1",
+      "appleAlbumId": 1703592887,
+      "title": "Биполярка, Часть 1",
+      "catalogTitle": "Биполярка, Часть 1",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2023-09-08",
+      "year": 2023,
+      "kind": "album",
+      "trackCount": 7,
+      "copyright": "℗ 2023 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B1%D0%B8%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BA%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/1703592887?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/42/bf/6c42bfec-e526-db80-2ee5-1ea7f2154623/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1703592892,
+      "tracks": [
+        {
+          "id": 1703592891,
+          "title": "анамнез",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 75667,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B0%D0%BD%D0%B0%D0%BC%D0%BD%D0%B5%D0%B7/1703592887?i=1703592891&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/69/8b/c9698bc4-1d88-0df7-deeb-6c756b70fc66/mzaf_3289823831231844346.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1703592892,
+          "title": "Пускай всё горит",
+          "artist": "ТАйМСКВЕР, RAM & KOMMO",
+          "number": 2,
+          "durationMs": 246094,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B9-%D0%B2%D1%81%D1%91-%D0%B3%D0%BE%D1%80%D0%B8%D1%82/1703592887?i=1703592892&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/4a/f3/864af323-a09f-474b-cbc5-1c8b47f54cbf/mzaf_7729029507953796564.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.012993
+        },
+        {
+          "id": 1703592893,
+          "title": "Москва",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 256000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/1703592887?i=1703592893&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/35/4a/c8354a71-1922-2e67-3b24-217cc4bf7267/mzaf_10633700601765936769.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1703592894,
+          "title": "Сладкий яд",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 151929,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B4/1703592887?i=1703592894&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/20/d0/f620d048-0188-1ef5-fb47-3f150f46324d/mzaf_6312936009878593113.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1703592897,
+          "title": "Трайхард",
+          "artist": "ТАйМСКВЕР",
+          "number": 5,
+          "durationMs": 244696,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D1%80%D0%B0%D0%B9%D1%85%D0%B0%D1%80%D0%B4/1703592887?i=1703592897&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/e9/0c/c2e90cd6-76ee-9b9e-adab-b4e83432d24a/mzaf_4860598814865968141.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1703592898,
+          "title": "В моей голове",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 218850,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5/1703592887?i=1703592898&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/4c/45/194c4514-d4db-fe96-6069-db01ea6177ac/mzaf_6373040238088611968.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1703592902,
+          "title": "эпикриз",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 137000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8D%D0%BF%D0%B8%D0%BA%D1%80%D0%B8%D0%B7/1703592887?i=1703592902&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/44/48/f84448a6-3a6d-9b35-efec-3de8cc268007/mzaf_16987884528239917016.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/bipolyarka-1.jpg"
+    },
+    {
+      "id": "molodost",
+      "appleAlbumId": 1651229903,
+      "title": "Молодость",
+      "catalogTitle": "Молодость",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2022-11-04",
+      "year": 2022,
+      "kind": "album",
+      "trackCount": 11,
+      "copyright": "℗ 2022 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C/1651229903?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/6e/b8/186eb8fe-e7a7-ceb7-a876-c90c49aaa454/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1651229905,
+      "tracks": [
+        {
+          "id": 1651229905,
+          "title": "Жесть",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 241750,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B6%D0%B5%D1%81%D1%82%D1%8C/1651229903?i=1651229905&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/00/6b/01006bb9-3267-e248-4f30-1bf375b9b4cf/mzaf_158841947686494793.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 29.976961
+        },
+        {
+          "id": 1651229907,
+          "title": "В темноте",
+          "artist": "ТАйМСКВЕР & Garri Topor",
+          "number": 2,
+          "durationMs": 211000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B5/1651229903?i=1651229907&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/32/a0/14/32a0147d-0142-64ac-3864-ff89db2dafc9/mzaf_15776066332770701849.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229908,
+          "title": "Моё одиночество",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 203750,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D1%91-%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/1651229903?i=1651229908&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/7d/93/a2/7d93a254-0e3f-588f-5afd-0bfcc8e7e7ba/mzaf_7539237268010121398.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229909,
+          "title": "Не молчать",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 237000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D1%82%D1%8C/1651229903?i=1651229909&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a8/89/3d/a8893d9c-d3eb-7d1b-1e2b-65878d2b4a62/mzaf_13718569862644013223.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229910,
+          "title": "Самоконтроль",
+          "artist": "ТАйМСКВЕР & Toni Raut",
+          "number": 5,
+          "durationMs": 206500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/1651229903?i=1651229910&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ff/ba/15/ffba15ac-2064-41ac-4142-b5b4e1d8d387/mzaf_14088876076256834240.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229912,
+          "title": "Неизбежность зла",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 215500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B1%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B7%D0%BB%D0%B0/1651229903?i=1651229912&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c3/79/99/c3799950-86a3-80f6-9d66-681295e45bac/mzaf_4755931473614673555.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229914,
+          "title": "Молодость внутри",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 226500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/1651229903?i=1651229914&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/08/f9/57/08f95708-3bac-9581-144a-19f677c64fb9/mzaf_12635429428880559042.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229915,
+          "title": "Время первых",
+          "artist": "ТАйМСКВЕР",
+          "number": 8,
+          "durationMs": 288000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85/1651229903?i=1651229915&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/44/ff/e8/44ffe8b3-2037-fb5f-0221-4a6e46a24826/mzaf_13161850164780726201.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229916,
+          "title": "Не надо слов",
+          "artist": "ТАйМСКВЕР",
+          "number": 9,
+          "durationMs": 253250,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B5-%D0%BD%D0%B0%D0%B4%D0%BE-%D1%81%D0%BB%D0%BE%D0%B2/1651229903?i=1651229916&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/51/42/71/51427152-8f14-01b9-8a7c-e375b91d927e/mzaf_1597549595904768569.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229918,
+          "title": "Враг мой",
+          "artist": "ТАйМСКВЕР",
+          "number": 10,
+          "durationMs": 238500,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D1%80%D0%B0%D0%B3-%D0%BC%D0%BE%D0%B9/1651229903?i=1651229918&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f0/d0/39/f0d03989-5820-9200-77d0-98fb5d3ae3c0/mzaf_3281442176948739769.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1651229919,
+          "title": "Слэм (Всем плевать на текст)",
+          "artist": "ТАйМСКВЕР",
+          "number": 11,
+          "durationMs": 162250,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%BB%D1%8D%D0%BC-%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BA%D1%81%D1%82/1651229903?i=1651229919&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/06/4b/6d/064b6d2c-550d-7e32-3c56-0cf58cdcc188/mzaf_13930880085061473839.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/molodost.jpg"
+    },
+    {
+      "id": "2020",
+      "appleAlbumId": 1616620872,
+      "title": "2020",
+      "catalogTitle": "2020",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2020-11-13",
+      "year": 2020,
+      "kind": "album",
+      "trackCount": 7,
+      "copyright": "℗ 2020 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/2020/1616620872?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0c/ca/af/0ccaafff-ccd5-69df-6a5f-b6191a319f1a/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1616620875,
+      "tracks": [
+        {
+          "id": 1616620873,
+          "title": "202-0-20-20",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 52300,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/202-0-20-20/1616620872?i=1616620873&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/98/69/38/986938eb-39b7-2f71-8bdc-3726ccb35b3a/mzaf_2942457099148044708.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616620875,
+          "title": "Я пришёл [не] с миром",
+          "artist": "ТАйМСКВЕР & OSCAL",
+          "number": 2,
+          "durationMs": 243908,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8F-%D0%BF%D1%80%D0%B8%D1%88%D1%91%D0%BB-%D0%BD%D0%B5-%D1%81-%D0%BC%D0%B8%D1%80%D0%BE%D0%BC/1616620872?i=1616620875&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/99/3e/94/993e9434-cd1d-6831-c4c2-bc5d3989b1f3/mzaf_10311361346202638207.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 29.976961
+        },
+        {
+          "id": 1616620876,
+          "title": "Лица под ногами",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 244193,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BB%D0%B8%D1%86%D0%B0-%D0%BF%D0%BE%D0%B4-%D0%BD%D0%BE%D0%B3%D0%B0%D0%BC%D0%B8/1616620872?i=1616620876&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/35/9f/0d/359f0db2-1af8-3916-a6a3-8ec637b34cec/mzaf_14287383812401573935.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616620878,
+          "title": "Альфа дог",
+          "artist": "ТАйМСКВЕР & Shokran",
+          "number": 4,
+          "durationMs": 227245,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B4%D0%BE%D0%B3/1616620872?i=1616620878&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/02/0e/d4/020ed466-46be-7a3b-8130-de83b6426686/mzaf_11348072942820862858.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616620880,
+          "title": "У Бога много времени",
+          "artist": "ТАйМСКВЕР",
+          "number": 5,
+          "durationMs": 242513,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%83-%D0%B1%D0%BE%D0%B3%D0%B0-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8/1616620872?i=1616620880&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2d/49/98/2d4998ab-4ea4-5e21-884e-e5d0ff06cd0d/mzaf_4937877414750103155.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616620882,
+          "title": "Весна?",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 248865,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%B5%D1%81%D0%BD%D0%B0/1616620872?i=1616620882&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/00/12/5a/00125a48-1b20-35ce-3fa4-7dde42b4b18c/mzaf_11924566205771893962.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616620884,
+          "title": "Вниз по спирали",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 264000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BD%D0%B8%D0%B7-%D0%BF%D0%BE-%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%B8/1616620872?i=1616620884&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/de/28/9f/de289f3d-4f83-a010-0f06-3c3d7f6d1484/mzaf_17227247972062082431.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/2020.jpg"
+    },
+    {
+      "id": "psychoacoustica",
+      "appleAlbumId": 1616093963,
+      "title": "Психоакустика",
+      "catalogTitle": "Психоакустика",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2020-05-08",
+      "year": 2020,
+      "kind": "album",
+      "trackCount": 7,
+      "copyright": "℗ 2020 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%B0%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0/1616093963?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c5/fe/49/c5fe4947-0baf-4289-4f02-47b32fbbc5a4/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1616093965,
+      "tracks": [
+        {
+          "id": 1616093964,
+          "title": "0 (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 36500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/0-psychoacoustic-version/1616093963?i=1616093964&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d4/21/23/d42123b2-7e18-5138-c491-0163c2ba72e2/mzaf_9436555060111063761.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616093965,
+          "title": "Космос молчит (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР & Ai Mori",
+          "number": 2,
+          "durationMs": 248000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81-%D0%BC%D0%BE%D0%BB%D1%87%D0%B8%D1%82-psychoacoustic-version/1616093963?i=1616093965&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/3d/8d/843d8d32-1053-5d26-0647-03db2a23db79/mzaf_1770169577122674693.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 29.976961
+        },
+        {
+          "id": 1616093966,
+          "title": "Самурай (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 305500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B9-psychoacoustic-version/1616093963?i=1616093966&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/71/56/3d/71563d9a-3932-7e32-eb3d-711446518d2d/mzaf_10537641414410897778.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616093967,
+          "title": "Облако (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 263000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE-psychoacoustic-version/1616093963?i=1616093967&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5f/63/cc/5f63cc73-5ea0-7196-8df4-e7a2a4a9ab45/mzaf_4974872778519149599.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616093969,
+          "title": "Мой серый город (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР & U-TOPIA",
+          "number": 5,
+          "durationMs": 226000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%B9-%D1%81%D0%B5%D1%80%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-psychoacoustic-version/1616093963?i=1616093969&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/41/ce/57/41ce57c8-5079-e785-dc24-cee36d2b0f61/mzaf_8326854056822985940.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616093970,
+          "title": "Вкус крови (Psychoacoustic Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 214000,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BA%D1%83%D1%81-%D0%BA%D1%80%D0%BE%D0%B2%D0%B8-psychoacoustic-version/1616093963?i=1616093970&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a3/6f/fa/a36ffa38-33d6-b07d-31fa-aa956f6ed30b/mzaf_9659440164742048504.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616093971,
+          "title": "Космос молчит (Psychoacoustic Master Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 248000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81-%D0%BC%D0%BE%D0%BB%D1%87%D0%B8%D1%82-psychoacoustic-master-version/1616093963?i=1616093971&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/3d/77/c13d770d-74ff-4c00-0b33-680cbea9888d/mzaf_8292410414901623191.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/psychoacoustica.jpg"
+    },
+    {
+      "id": "vkus-krovi",
+      "appleAlbumId": 1616896318,
+      "title": "Вкус крови",
+      "catalogTitle": "Вкус крови",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2019-09-27",
+      "year": 2019,
+      "kind": "album",
+      "trackCount": 9,
+      "copyright": "℗ 2019 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BA%D1%83%D1%81-%D0%BA%D1%80%D0%BE%D0%B2%D0%B8/1616896318?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/d8/a2/73d8a230-6199-3035-f047-fd7fed6369a3/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1616896320,
+      "tracks": [
+        {
+          "id": 1616896319,
+          "title": "Интро",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 17000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B8%D0%BD%D1%82%D1%80%D0%BE/1616896318?i=1616896319&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e8/d5/6b/e8d56bf9-a159-088c-469d-7a62e5a51e59/mzaf_2832085886852020025.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896320,
+          "title": "Вкус крови",
+          "artist": "ТАйМСКВЕР",
+          "number": 2,
+          "durationMs": 224250,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2%D0%BA%D1%83%D1%81-%D0%BA%D1%80%D0%BE%D0%B2%D0%B8/1616896318?i=1616896320&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c9/04/56/c9045632-fae9-1964-2b9e-3f0ecc16d644/mzaf_4104704913237562921.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 29.976961
+        },
+        {
+          "id": 1616896322,
+          "title": "Я.Л.Н.Л.Л.",
+          "artist": "ТАйМСКВЕР & Detach",
+          "number": 3,
+          "durationMs": 237750,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8F-%D0%BB-%D0%BD-%D0%BB-%D0%BB/1616896318?i=1616896322&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/2f/27/c72f2715-e95b-3dd2-6e2d-e93768263971/mzaf_4717342212251018698.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896323,
+          "title": "Соль и пепел",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 250000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%BE%D0%BB%D1%8C-%D0%B8-%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB/1616896318?i=1616896323&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ab/72/70/ab7270d8-6f44-bccd-6865-a14ad45c12da/mzaf_7050424793482387143.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896324,
+          "title": "Самурай",
+          "artist": "ТАйМСКВЕР",
+          "number": 5,
+          "durationMs": 196500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B8/1616896318?i=1616896324&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0f/64/b7/0f64b763-3ada-720d-61af-2f3a3ac3c7a7/mzaf_9216791368861231098.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896626,
+          "title": "Копия копии",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 246500,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D0%B8/1616896318?i=1616896626&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4e/48/dd/4e48dddf-b2a9-d5a6-838e-3432992698e3/mzaf_6095634938990859263.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896627,
+          "title": "Пульс",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 257750,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/1616896318?i=1616896627&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/66/a5/a0/66a5a054-3942-ff47-043e-27b34af8333d/mzaf_3409021165232508864.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896628,
+          "title": "Облако",
+          "artist": "ТАйМСКВЕР & TRITIA",
+          "number": 8,
+          "durationMs": 263750,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE/1616896318?i=1616896628&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/0e/be/c70ebe5e-0222-21e3-9d09-27ffa587c696/mzaf_6469349693250594164.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616896629,
+          "title": "Я.Л.Н.Л.Л. (Master Version)",
+          "artist": "ТАйМСКВЕР",
+          "number": 9,
+          "durationMs": 228000,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8F-%D0%BB-%D0%BD-%D0%BB-%D0%BB-master-version/1616896318?i=1616896629&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/12/b6/7f/12b67f15-16c9-10f5-4a57-26e640b9ae72/mzaf_610468339351314918.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/vkus-krovi.jpg"
+    },
+    {
+      "id": "ego",
+      "appleAlbumId": 1616081660,
+      "title": "ЭГО",
+      "catalogTitle": "ЭГО - Single",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2018-05-22",
+      "year": 2018,
+      "kind": "single",
+      "trackCount": 3,
+      "copyright": "℗ 2018 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D1%8D%D0%B3%D0%BE-single/1616081660?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/56/b2/da56b21b-d80d-381d-6af9-8027471b2c70/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1616081662,
+      "tracks": [
+        {
+          "id": 1616081662,
+          "title": "Эго",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 262500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8D%D0%B3%D0%BE/1616081660?i=1616081662&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/26/e7/82/26e78212-0229-6443-a4d8-9c2901458a8e/mzaf_16474965380407738632.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 29.976961
+        },
+        {
+          "id": 1616081664,
+          "title": "Тишина",
+          "artist": "ТАйМСКВЕР",
+          "number": 2,
+          "durationMs": 231500,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0/1616081660?i=1616081664&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/45/5b/28/455b2834-ce69-1e99-bca0-76c4a48d4841/mzaf_18194968292881027080.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616081665,
+          "title": "Линии",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 178750,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8/1616081660?i=1616081665&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ca/6c/e8/ca6ce852-6eb3-e413-7847-8c7ed6871214/mzaf_13906043564163347075.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/ego.jpg"
+    },
+    {
+      "id": "skafandr",
+      "appleAlbumId": 1616087183,
+      "title": "Скафандр и бабочка",
+      "catalogTitle": "Скафандр и бабочка",
+      "artist": "ТАйМСКВЕР",
+      "releaseDate": "2017-11-30",
+      "year": 2017,
+      "kind": "album",
+      "trackCount": 9,
+      "copyright": "℗ 2017 Touch Music",
+      "appleMusicUrl": "https://music.apple.com/us/album/%D1%81%D0%BA%D0%B0%D1%84%D0%B0%D0%BD%D0%B4%D1%80-%D0%B8-%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0/1616087183?uo=4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/07/ca/a107ca7d-b13b-cc5e-906c-a864d0aceb31/cover.jpg/800x800bb.jpg",
+      "featuredPreviewTrackId": 1616087185,
+      "tracks": [
+        {
+          "id": 1616087185,
+          "title": "Крошечное солнце",
+          "artist": "ТАйМСКВЕР",
+          "number": 1,
+          "durationMs": 186429,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D1%80%D0%BE%D1%88%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5/1616087183?i=1616087185&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/15/b7/8615b721-22e2-f7fe-9ad5-9939c155aeb2/mzaf_1240679913872727578.plus.aac.p.m4a",
+          "previewVerified": true,
+          "previewDurationSeconds": 30.013991
+        },
+        {
+          "id": 1616087186,
+          "title": "Тени",
+          "artist": "ТАйМСКВЕР",
+          "number": 2,
+          "durationMs": 168115,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%82%D0%B5%D0%BD%D0%B8/1616087183?i=1616087186&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/84/7f/db847fee-2c83-b95b-1d51-3e24fd3ccbc6/mzaf_17252662552852820272.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087189,
+          "title": "Реквием",
+          "artist": "ТАйМСКВЕР",
+          "number": 3,
+          "durationMs": 192073,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%80%D0%B5%D0%BA%D0%B2%D0%B8%D0%B5%D0%BC/1616087183?i=1616087189&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/5e/76/3c5e761d-7618-2f63-868e-70546b8ceb93/mzaf_1419121276159690082.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087190,
+          "title": "Из вечносолнечного льда",
+          "artist": "ТАйМСКВЕР",
+          "number": 4,
+          "durationMs": 239484,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B8%D0%B7-%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D1%8C%D0%B4%D0%B0/1616087183?i=1616087190&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/04/62/bf0462e0-7c5d-8fda-6210-b6fcfa093e8e/mzaf_3889005054677447647.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087191,
+          "title": "Мой серый город",
+          "artist": "ТАйМСКВЕР",
+          "number": 5,
+          "durationMs": 187391,
+          "explicit": true,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D0%B9-%D1%81%D0%B5%D1%80%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4/1616087183?i=1616087191&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/18/66/35186669-ff53-1d53-9493-724bca412356/mzaf_8566944781933360975.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087194,
+          "title": "Декабрь",
+          "artist": "ТАйМСКВЕР",
+          "number": 6,
+          "durationMs": 226865,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C/1616087183?i=1616087194&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/68/38/7c683851-1c7c-5a29-14f8-7137091192c5/mzaf_5994092813983476346.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087195,
+          "title": "Космос молчит",
+          "artist": "ТАйМСКВЕР",
+          "number": 7,
+          "durationMs": 197856,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81-%D0%BC%D0%BE%D0%BB%D1%87%D0%B8%D1%82/1616087183?i=1616087195&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/da/c7/c4dac700-0a91-0c03-36eb-23ad787c7019/mzaf_2284384541477144907.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087286,
+          "title": "Я иду за тобой",
+          "artist": "ТАйМСКВЕР",
+          "number": 8,
+          "durationMs": 232282,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D1%8F-%D0%B8%D0%B4%D1%83-%D0%B7%D0%B0-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9/1616087183?i=1616087286&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/8f/d2/bd8fd278-9eb9-aa42-9340-e9434135222d/mzaf_7935953114401790741.plus.aac.p.m4a",
+          "previewVerified": false
+        },
+        {
+          "id": 1616087288,
+          "title": "Декабрь (Акустика)",
+          "artist": "ТАйМСКВЕР",
+          "number": 9,
+          "durationMs": 209727,
+          "explicit": false,
+          "appleMusicUrl": "https://music.apple.com/us/album/%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C-%D0%B0%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0/1616087183?i=1616087288&uo=4",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/69/b2/b869b237-dee1-a172-c136-7e5428e59171/mzaf_4941659268926171485.plus.aac.p.m4a",
+          "previewVerified": false
+        }
+      ],
+      "cover": "/assets/covers/skafandr.jpg"
+    }
+  ],
+  "verifiedPreviews": [
+    {
+      "trackId": 1651229905,
+      "title": "Жесть",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/00/6b/01006bb9-3267-e248-4f30-1bf375b9b4cf/mzaf_158841947686494793.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 29.976961
+    },
+    {
+      "trackId": 1743468183,
+      "title": "Один на один",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/a2/4e/a1a24ec8-fea6-1ed7-0481-c2da6e704acc/mzaf_9141269847557839965.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.003991
+    },
+    {
+      "trackId": 1703592892,
+      "title": "Пускай всё горит",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/4a/f3/864af323-a09f-474b-cbc5-1c8b47f54cbf/mzaf_7729029507953796564.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.012993
+    },
+    {
+      "trackId": 1616087185,
+      "title": "Крошечное солнце",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/15/b7/8615b721-22e2-f7fe-9ad5-9939c155aeb2/mzaf_1240679913872727578.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.013991
+    },
+    {
+      "trackId": 1616896320,
+      "title": "Вкус крови",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c9/04/56/c9045632-fae9-1964-2b9e-3f0ecc16d644/mzaf_4104704913237562921.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 29.976961
+    },
+    {
+      "trackId": 1616081662,
+      "title": "Эго",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/26/e7/82/26e78212-0229-6443-a4d8-9c2901458a8e/mzaf_16474965380407738632.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 29.976961
+    },
+    {
+      "trackId": 1889149799,
+      "title": "На суете",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/f2/b6/74f2b6dc-8df6-a7c7-7f78-49a12b3e35f8/mzaf_3050405228187426928.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.016009
+    },
+    {
+      "trackId": 6774883996,
+      "title": "Три дороги (последний круг)",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/f5/6b/eff56b4e-5479-1b37-b3f2-e8ca8d1b42f2/mzaf_3802788684112328769.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.001995
+    },
+    {
+      "trackId": 1868330183,
+      "title": "Апперкот",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/b4/21/10b421c0-79db-342c-7386-785a565831b6/mzaf_3082005585349041340.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.000181
+    },
+    {
+      "trackId": 6781699176,
+      "title": "Вкус моей крови",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/fe/2e/e3fe2e9c-b465-de70-bf64-a29b5dbb3f21/mzaf_13329015201322848298.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.000181
+    },
+    {
+      "trackId": 1616620875,
+      "title": "Я пришёл [не] с миром",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/99/3e/94/993e9434-cd1d-6831-c4c2-bc5d3989b1f3/mzaf_10311361346202638207.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 29.976961
+    },
+    {
+      "trackId": 1616093965,
+      "title": "Космос молчит (Psychoacoustic Version)",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/3d/8d/843d8d32-1053-5d26-0647-03db2a23db79/mzaf_1770169577122674693.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 29.976961
+    },
+    {
+      "trackId": 6799085393,
+      "title": "Мой дом",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/ef/9b/5aef9b60-0edf-f337-f0fa-1a55e42ae07b/mzaf_3966882281044380109.plus.aac.p.m4a",
+      "status": 200,
+      "cors": "*",
+      "codec": "aac",
+      "durationSeconds": 30.007007
+    }
+  ]
+}
